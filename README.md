@@ -1,2 +1,2 @@
 <h1>Simulasi</h1>
-&copy;SquadTnaga 2019
+&copy; 2019 SquadTnaga
